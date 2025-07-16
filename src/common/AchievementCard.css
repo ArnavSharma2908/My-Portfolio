@@ -1,0 +1,51 @@
+.card {
+  background: var(--color-bg-variant);
+  padding: 2rem;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+  max-width: 500px;
+  width: 100%;
+}
+
+.card:hover {
+  background: transparent;
+  border-color: var(--color-primary-variant);
+  transform: scale(1.02);
+}
+
+.card h3 {
+  color: var(--color-primary);
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.card h4 {
+  color: var(--color-white);
+  margin-bottom: 0.5rem;
+}
+
+.issuer {
+  color: var(--color-light);
+  font-style: italic;
+  margin-bottom: 0.3rem;
+}
+
+.date {
+  color: var(--color-light);
+  font-size: 0.9rem;
+  margin-bottom: 0.8rem;
+}
+
+.description {
+  color: var(--color-light);
+  line-height: 1.7;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}

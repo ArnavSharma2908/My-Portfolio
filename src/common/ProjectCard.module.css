@@ -1,0 +1,54 @@
+.projectCard {
+  background: var(--color-bg-variant);
+  padding: 2rem;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: all var(--transition);
+  max-width: 500px;
+  width: 100%;
+  color: var(--color-text);
+}
+
+.projectCard:hover {
+  background: var(--color-bg);
+  border-color: var(--color-primary-variant);
+  transform: scale(1.02);
+}
+
+.projectCard h3 {
+  color: var(--color-primary);
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.projectCard p {
+  color: var(--color-text);
+  line-height: 1.7;
+}
+
+.projectCard a {
+  color: var(--color-text);
+  text-decoration: none;
+  display: block;
+  transition: color var(--transition);
+}
+
+.hover {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.hover:hover {
+  transform: scale(1.05);
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
