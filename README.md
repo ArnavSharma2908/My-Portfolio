@@ -6,7 +6,7 @@ A fully responsive personal portfolio website built using **React + Vite + Tailw
 - **Frontend**: React, Vite, Tailwind CSS
 - **CI/CD**: GitHub Actions → Docker → AWS EC2
 - **Hosting**: Deployed on Ubuntu AWS EC2 instance (via Docker)
-- 🌍 **No-IP URL**: [arnav-portfolio.ddnsfree.com](http://arnav-portfolio.ddnsfree.com)
+- 🌍 **No-IP URL(by Dynu.com)**: [arnav-portfolio.ddnsfree.com](http://arnav-portfolio.ddnsfree.com)
 - 🌐 **Direct EC2 IP**: [http://13.49.243.67](http://13.49.243.67)
 
 ## ⚙️ How It Works
