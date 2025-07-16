@@ -40,7 +40,7 @@ const skills = [
   { name: 'Git', badgeUrl: 'https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' },
   { name: 'GitHub Actions', badgeUrl: 'https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white' },
   { name: 'Docker', badgeUrl: 'https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white' },
-  { name: 'Jenkins', badgeUrl: 'https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white' },
+  { name: 'AWS EC2', badgeUrl: 'https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white' },
   { name: 'REST APIs', badgeUrl: 'https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white' },
 ];
 
