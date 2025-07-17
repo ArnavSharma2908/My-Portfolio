@@ -14,19 +14,19 @@
 }
 
 [data-theme='dark'] {
-    --background-color: #1f1f1f;
-    --btn-color: #fff;
-    --btn-text-color: #222;
-    --project-card-bg: #2d2d2d;
-    --color-bg: #1f1f1f;
-    --color-bg-variant: #2d2d2d;
-    --color-primary: #0987f2;
-    --color-primary-variant: #0987f280;
-    --color-text: #fff;
-    --form-text-color: #fff;
-    --footer-text-color: #bbb;
-    --header-text-color: #fff;
-    --title-text-color: #fff;
+    --background-color: #050c17;
+    --btn-color: #64ffda;
+    --btn-text-color: #0a192f;
+    --project-card-bg: #1c103e;
+    --color-bg: #0a192f;
+    --color-bg-variant: #1b2d4e;
+    --color-primary: #64ffda;
+    --color-primary-variant: #64ffda80;
+    --color-text: #ccd6f6;
+    --form-text-color: #8892b0;
+    --footer-text-color: #8892b0;
+    --header-text-color: #ccd6f6;
+    --title-text-color: #64ffda;
 }
 
 body {
