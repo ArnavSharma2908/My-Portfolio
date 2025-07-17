@@ -1,5 +1,6 @@
 import './App.css'
 import Carvalho from './sections/Carvalho/Carvalho';
+import NavBar from './NavBar/NavBar';
 import Contact from './sections/Contact/Contact';
 import Footer from './sections/Footer/Footer';
 import Projects from './sections/Projects/Projects';
@@ -10,11 +11,22 @@ function App() {
 
   return (
     <>
-      <Carvalho />
-      <Projects />
-      <Skills />
-      <Achievements />
-      <Contact />
+      <NavBar />
+      <section id="carvalho">
+        <Carvalho />
+      </section>
+      <section id="projects">
+        <Projects />
+      </section>
+      <section id="skills">
+        <Skills />
+      </section>
+      <section id="achievements">
+        <Achievements />
+      </section>
+      <section id="contact">
+        <Contact />
+      </section>
       <Footer />
     </>
   );

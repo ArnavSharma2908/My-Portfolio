@@ -2,6 +2,7 @@ export default {
 
   language: 'en',
     header: {
+      title: 'Home 🏠',
       name: 'Arnav Sharma ',
       role: 'Computer Science & Engineering Student 💻\n& Chess Enthusiast ♟️',
       description: '🎓 Engineer-in-training passionate about AI, robotics, CP and coding. ♟️ Chess Fan with FIDE 1411 — always up for a match or a new project.',
